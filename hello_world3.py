@@ -1,6 +1,6 @@
 #!usr/bin/env python3
 
-# Ceated by: Cameron Teed
+# Created by: Cameron Teed
 # Created On: September 2019
 # This is the "Hello_World" Program, but pretty
 
